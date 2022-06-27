@@ -1,5 +1,5 @@
 {"name":"YuanTuBiao", "description":"网站原图标", "icons":[
-{"name":"miHoYo", "url":"https://github.com/GrapeBranch/palm/blob/bb8c33dddd7778953bb4a272bf944ea5bacc2d28/TuBiao/miHoYo.png"},
-{"name":"miyun", "url":"https://github.com/GrapeBranch/palm/blob/70ef4cf4fc27321d43cc0cc0288c31d14cea85d5/TuBiao/miyun.png"}, 
+{"name":"miHoYo", "url":"https://github.com/GrapeBranch/palm/blob/TuBiao/miHoYo.png"},
+{"name":"miyun", "url":"https://github.com/GrapeBranch/palm/blob/TuBiao/miyun.png"}, 
 ]
 }
